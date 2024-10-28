@@ -22,7 +22,7 @@ const char = {
 
 ## Символы & итераторы
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/a0nwcuaxndss1vd9?svg=true)](https://ci.appveyor.com/project/BudTon/symbol-iterator)
 
 ### Легенда
 
